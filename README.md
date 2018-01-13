@@ -20,5 +20,6 @@ Usage:
 		number of threads (default 8)
 
 Example:
+
 	$ ./dnsbench -server 8.8.8.8:53 -query example.com:A
 	iterations: 967; average rtt: 29.22 ms
